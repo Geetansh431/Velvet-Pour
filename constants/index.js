@@ -22,7 +22,7 @@ const cocktailLists = [
 	name: "Chapel Hill Shiraz",
 	country: "AU",
 	detail: "Battle",
-	price: "$10",
+	price: "$49",
  },
  {
 	name: "Caten Malbee",
@@ -49,7 +49,7 @@ const mockTailLists = [
 	name: "Tropical Bloom",
 	country: "US",
 	detail: "Battle",
-	price: "$10",
+	price: "$49",
  },
  {
 	name: "Passionfruit Mint",
