@@ -29,6 +29,35 @@ body {
     @apply flex justify-center items-center;
 }
 
+/* Audio Control Styles */
+.slider {
+    -webkit-appearance: none;
+    appearance: none;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 5px;
+    outline: none;
+}
+
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: #e7d393;
+    cursor: pointer;
+    border: none;
+}
+
+.slider::-moz-range-thumb {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: #e7d393;
+    cursor: pointer;
+    border: none;
+}
+
 @utility col-center {
     @apply flex flex-col justify-center items-center;
 }
