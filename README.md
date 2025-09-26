@@ -84,7 +84,7 @@ src/
 └── index.css               # Global styles and utilities
 
 
-
+```
 ## 📄 Legal & Licensing
 
 This project is for educational/portfolio purposes. Ensure proper licensing for:
