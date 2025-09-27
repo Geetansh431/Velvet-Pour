@@ -83,19 +83,8 @@ src/
 ├── main.jsx                # Entry point
 └── index.css               # Global styles and utilities
 
-## ⚡ Performance Optimizations
 
-### **Smart Asset Loading**
-```javascript
-// Preloader with critical asset management
-const criticalImages = [
-  '/images/hero-left-leaf.png',
-  '/images/hero-right-leaf.png',
-  // ... other critical assets
-];
 ```
-
-
 ## 📄 Legal & Licensing
 
 This project is for educational/portfolio purposes. Ensure proper licensing for:
